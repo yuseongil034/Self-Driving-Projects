@@ -93,15 +93,6 @@
 ## 실행 방법
 ```bash
 python app.py
-````
-
-## 참고 링크
-
-[ChatGPT](https://chat.openai.com)
-
-```
-
-위처럼 쓰고 저장하면 GitHub가 알아서 예쁘게 보여줘요!
 
 ---
 
