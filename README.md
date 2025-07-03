@@ -235,7 +235,7 @@ print("World")
 ## 2. About Python3
 - [Python basic](docs/python3.md)
 - https://www.w3schools.com/python/default.asp
-## 📘 기본 문법
+ 기본 문법
 
 - [for문 예제](0625_for&while.ipynb)
 - [함수 정의 (define)](0625_python_define.ipynb)
@@ -243,7 +243,7 @@ print("World")
 
 ---
 
-## 📗 자료구조
+ 자료구조
 
 - [리스트 기초](0626_python_list.ipynb)
 - [딕셔너리 기초](0626_python_dictionary.ipynb)
@@ -252,7 +252,7 @@ print("World")
 
 ---
 
-## 📊 라이브러리 학습 (NumPy, Matplotlib)
+ 라이브러리 학습 (NumPy, Matplotlib)
 
 - [NumPy 기초](0703_python_Numpy.ipynb)
 - [NumPy + 자율주행 융합](0703_python_numpy융합.ipynb)
