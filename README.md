@@ -241,7 +241,7 @@ print("World")
 - [함수 정의 (define)](0625_python_define.ipynb)
 - [for & while 심화](0625_python_for&while.ipynb)
 
----
+
 
  자료구조
 
@@ -250,7 +250,7 @@ print("World")
 - [딕셔너리 심화](0627_python_dictionary.ipynb)
 - [튜플 자료형](0627_python_tuple.ipynb)
 
----
+
 
  라이브러리 학습 (NumPy, Matplotlib)
 
