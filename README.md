@@ -235,6 +235,8 @@ print("World")
 ## 2. About Python3
 - [Python basic](docs/python3.md)
 - https://www.w3schools.com/python/default.asp
+
+ 
  기본 문법
 
 - [for문 예제](0625_for&while.ipynb)
