@@ -235,7 +235,29 @@ print("World")
 ## 2. About Python3
 - [Python basic](docs/python3.md)
 - https://www.w3schools.com/python/default.asp
+## 📘 기본 문법
 
+- [for문 예제](0625_for&while.ipynb)
+- [함수 정의 (define)](0625_python_define.ipynb)
+- [for & while 심화](0625_python_for&while.ipynb)
+
+---
+
+## 📗 자료구조
+
+- [리스트 기초](0626_python_list.ipynb)
+- [딕셔너리 기초](0626_python_dictionary.ipynb)
+- [딕셔너리 심화](0627_python_dictionary.ipynb)
+- [튜플 자료형](0627_python_tuple.ipynb)
+
+---
+
+## 📊 라이브러리 학습 (NumPy, Matplotlib)
+
+- [NumPy 기초](0703_python_Numpy.ipynb)
+- [NumPy + 자율주행 융합](0703_python_numpy융합.ipynb)
+- [Matplotlib 기초](0703_python_Matplotlib.ipynb)
+- [Matplotlib 마크다운 정리](0703_python_Matplotlib_md.ipynb)
   
 
 ## 3.  data structure / data sciencs
