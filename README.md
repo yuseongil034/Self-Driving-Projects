@@ -235,16 +235,18 @@ print("World")
 ## 2. About Python3
 - [Python basic](docs/python3.md)
 - https://www.w3schools.com/python/default.asp
-- (0625_for&while.md)
-- (0625_python_define.md)
-- (0625_python_for&while.md)
-- (0626_python_dictionary.ipynb0626_python_list.md)
-- (0627_python_dictionary.md)
-- (0627_python_tuple.md)
-- (0703_python_Matplotlib.md)
-- (0703_python_Numpy.md)
-- (0703_python_numpy융합.md)
-- (0703_python_Matplotlib_md.md)
+python-study-notes/
+├── 0625_for&while.md
+├── 0625_python_define.md
+├── 0625_python_for&while.md
+├── 0626_python_dictionary.ipynb
+├── 0626_python_list.md
+├── 0627_python_dictionary.md
+├── 0627_python_tuple.md
+├── 0703_python_Matplotlib.md
+├── 0703_python_Numpy.md
+├── 0703_python_numpy융합.md
+├── 0703_python_Matplotlib_md.md
   
 
 ## 3.  data structure / data sciencs
