@@ -260,7 +260,7 @@ print("World")
 - [NumPy + 자율주행 융합](0703_python_numpy융합.ipynb)
 - [Matplotlib 기초](0703_python_Matplotlib.ipynb)
 - [Matplotlib 마크다운 정리](0703_python_Matplotlib_md.ipynb)
-  
+  [matplotlib을 활용한 복잡한 코드](복잡한_코드.ipynb)
 
 ## 3.  data structure / data sciencs
 
