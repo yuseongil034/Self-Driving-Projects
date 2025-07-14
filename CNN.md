@@ -270,38 +270,6 @@ for param in resnet.fc.parameters():
 param.requires_grad = True
 
 
-
----
-
-## 9. 참고자료
-
-### 📚 추천 도서
-- **"Deep Learning" by Ian Goodfellow**
-- **"Hands-On Machine Learning" by Aurélien Géron**
-- **"Pattern Recognition and Machine Learning" by Christopher Bishop**
-
-### 🌐 온라인 강의
-- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-- [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
-- [Fast.ai Practical Deep Learning](https://www.fast.ai/)
-
-### 🛠️ 유용한 라이브러리
-- **[PyTorch](https://pytorch.org/)**: 연구 중심의 딥러닝 프레임워크
-- **[TensorFlow](https://tensorflow.org/)**: 구글의 머신러닝 플랫폼
-- **[Keras](https://keras.io/)**: 고수준 신경망 API
-- **[OpenCV](https://opencv.org/)**: 컴퓨터 비전 라이브러리
-
-### 📊 데이터셋
-- **[MNIST](http://yann.lecun.com/exdb/mnist/)**: 손글씨 숫자
-- **[CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html)**: 일반 객체 분류
-- **[ImageNet](http://www.image-net.org/)**: 대규모 이미지 데이터셋
-- **[COCO](https://cocodataset.org/)**: 객체 탐지 및 분할
-
-### 🔗 유용한 링크
-- [Papers with Code](https://paperswithcode.com/): 최신 논문과 코드
-- [Distill.pub](https://distill.pub/): 시각적 ML 설명
-- [Towards Data Science](https://towardsdatascience.com/): Medium 블로그
-
 ---
 
 ## 📝 마무리
