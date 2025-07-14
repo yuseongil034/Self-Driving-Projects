@@ -281,7 +281,7 @@ print("World")
 
   
 ## 6. CNN(Convolution Neural Network
-- [CNN_Basic](CNN_basic.md)
+- [CNN_Basic](CNN.md)
 - [CNN_자율주행 관련 코드](cnn_test.md)
 
 ## 7. Ultralytics
