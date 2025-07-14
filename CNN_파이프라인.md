@@ -112,3 +112,8 @@ ReLU(x) = max(0, x)
 - **히트맵:** 활성화 강도를 열화상으로 표현
 
 ---
+
+- ### 이미지 처리 및 컨볼루션 처리 시각화
+
+- [Image processing](https://claude.ai/public/artifacts/c84d6210-cc1f-4f28-8be1-3f2150ea86e2)
+- [Convolution Result](https://claude.ai/public/artifacts/df7a5986-dd0a-4a16-af85-ad90959de392)
