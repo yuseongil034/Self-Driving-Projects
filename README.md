@@ -285,7 +285,7 @@ print("World")
 - [OpenCV 테스트](0710_opencv_.ipynb)
   
 ## 6. CNN(Convolution Neural Network
-- [CNN_Basic](CNN.md)
+- [CNN 기반 자율주행 모델 정리](0714_CNN.md)
 - [CNN_자율주행 관련 코드](cnn_test.md)
 
 ## 7. Ultralytics
