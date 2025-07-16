@@ -289,9 +289,9 @@ print("World")
 - [CNN_자율주행 관련 코드](cnn_test.md)
 
 ## 7. Ultralytics
-- [Ultralytics_Basic](Ultralytics_basic.md)
-- [YOLOv8](YOLOv8_test.md)
-- [YOLOv12](YOLOv12_test.md)
+- [Ultralytics_Basic](Ultralytics_v8.md)
+- [Ultralytics_Basic](Ultralytics_v11.md)
+- [Ultralytics_Basic](Ultralytics_v12.md)
   
 ## 8. TensorRT vs PyTorch 
 - [PyTorch_Basic](PyTorch_basic.md)
