@@ -178,6 +178,10 @@ YOLOv8 사용 시 모델은 자동으로 다운로드됩니다. 사용 가능한
 
 ## 📚 참고 자료
 
+- [YOLO 용어정리 바로가기](yolo용어정리.md)
+
+
+
 ### 공식 문서
 - [Ultralytics YOLOv8 공식 문서](https://docs.ultralytics.com)
 - [YOLOv8 한국어 문서](https://docs.ultralytics.com/ko/models/yolov8/)
