@@ -179,8 +179,8 @@ YOLOv8 사용 시 모델은 자동으로 다운로드됩니다. 사용 가능한
 ## 📚 참고 자료
 
 - [YOLO 용어정리 바로가기](yolo용어정리.md)
-- ![YOLOv8 자율주행 인식 예시](0716_yolo8.ipynb)
-[YOLO v8 vs v11 비교](Yolo_v8vsv11.md)
+- [YOLOv8 자율주행 인식 예시](0716_yolo8.ipynb)
+- [YOLO v8 vs v11 비교](Yolo_v8vsv11.md)
 
 
 
