@@ -289,7 +289,7 @@ print("World")
 - [CNN_자율주행 관련 코드](cnn_test.md)
 
 ## 7. Ultralytics
-- [Ultralytics_Basic](Ultralytics_v8.md)
+- [Ultralytics_Basic](Ultralytics.md)
 - [Ultralytics_Basic](Ultralytics_v11.md)
 - [Ultralytics_Basic](Ultralytics_v12.md)
   
