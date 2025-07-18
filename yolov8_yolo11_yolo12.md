@@ -231,6 +231,9 @@ YOLO(You Only Look Once)는 **실시간으로 사물을 찾아내는 AI 기술**
 - [yolo11](0718_yolo11.ipynb) - YOLOv11 성능 측정  
 - [yolo12](0718_yolov12.ipynb) - YOLOv12 성능 측정
 
+![Detection Result](./yolo11yeongsang.jpg)
+
+
 ### 실험 환경
 - **플랫폼**: Google Colab
 - **데이터소스**: 유튜브 영상
