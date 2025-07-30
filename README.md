@@ -290,8 +290,7 @@ print("World")
 
 ## 7. Ultralytics
 - [Ultralytics_Basic](Ultralytics.md)
-- [Ultralytics_Basic](Ultralytics_v11.md)
-- [Ultralytics_Basic](Ultralytics_v12.md)
+
   
 ## 8. TensorRT vs PyTorch 
 - [PyTorch_Basic](PyTorch_basic.md)
