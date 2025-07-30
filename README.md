@@ -4,6 +4,7 @@
 - [GitHub 사용법](github-guide.md)
 - [Markdown 문법](markdown-guide.md)  
 - [Colab 기초](colab-guide.md)
+- [Colab 시작하기](Colab_시작하기.ipynb)
 
 ## GitHub 사용법
 
@@ -109,7 +110,7 @@
 
 ## 이미지 넣기
 
-이미지 주소(URL)를 사용해서 화면에 그림을 보여줄 수 있습니다.
+이미지 주소(URL)를 사용해서 화면에 삽입할 수 있습니다.
 
 ```markdown
 ![그림 설명](https://이미지주소.com/image.png)
@@ -229,32 +230,24 @@ print("World")
 2. 파이썬 코드 입력 (예: `print("Hello Colab!")`)
 3. **실행(Shift+Enter)** 하면 결과가 아래에 나옴
 
-
-
-
 ## 2. About Python3
-- [Python basic](docs/python3.md)
+- [Python basic](python3.md)
 - https://www.w3schools.com/python/default.asp
 
- 
- 기본 문법
+### 🐍 기본 문법
 
 - [for문 예제](0625_for&while.ipynb)
 - [함수 정의 (define)](0625_python_define.ipynb)
 - [for & while 심화](0625_python_for&while.ipynb)
 
-
-
- 자료구조
+### 📊 자료구조
 
 - [리스트 기초](0626_python_list.ipynb)
 - [딕셔너리 기초](0626_python_dictionary.ipynb)
 - [딕셔너리 심화](0627_python_dictionary.ipynb)
 - [튜플 자료형](0627_python_tuple.ipynb)
 
-
-
- 라이브러리 학습 (NumPy, Matplotlib)
+### 📈 라이브러리 학습 (NumPy, Matplotlib)
 
 - [NumPy 기초](0703_python_Numpy.ipynb)
 - [NumPy + 자율주행 융합](0703_python_numpy융합.ipynb)
@@ -262,7 +255,7 @@ print("World")
 - [Matplotlib 마크다운 정리](0703_python_Matplotlib_md.ipynb)
 - [matplotlib을 활용한 복잡한 코드](복잡한_코드.ipynb)
 
-## 3.  data structure / data sciencs
+## 3. Data Structure / Data Science
 
 - [데이터 구조 개요](data_structures.md)
 - [Pandas](pandas.md)
@@ -279,33 +272,66 @@ print("World")
 - [OpenCV Basic](OpenCV_basic.md)
 - [이미지 처리](image_test.md)
 
+### 🚦 OpenCV 실습 프로젝트
+
 - [신호등 인식 + Canny + HSV + Gaussian](0708_openCV_canny+HSV+Gaussian_Block+녹색신호등.ipynb)
 - [Canny + HSV + Gaussian 블록처리](0708_opencv_canny_hsv_gaussian_block.ipynb)
 - [차량 인식 개선 버전](0709_opencv_car_detection2.ipynb)
 - [OpenCV 테스트](0710_opencv_.ipynb)
-  
-## 6. CNN(Convolution Neural Network
+
+## 6. CNN(Convolution Neural Network)
+
 - [CNN 기반 자율주행 모델 정리](0714_CNN.md)
 - [CNN_자율주행 관련 코드](cnn_test.md)
+- [CNN 이미지처리](CNN_이미지처리.md)
 
-## 7. Ultralytics
-- [Ultralytics_Basic](Ultralytics.md)
+## 7. Ultralytics & YOLO
 
-  
+- [Ultralytics Basic](Ultralytics.md)
+- [YOLOv8 vs YOLOv11 비교](Yolo_v8vsv11.md)
+
+### 🎯 YOLO 실습 프로젝트
+
+- [기본 실습](0716_.ipynb)
+- [YOLOv8 기초](0716_yolo8.ipynb)
+- [YOLOv8 영상처리](0717_yolov8_영상.ipynb)
+- [YOLOv12 실습](0718_yolov12.ipynb)
+
+### 🏷️ 라벨링 & 전이학습
+
+- [Roboflow 라벨링](0724_roboflow_labeling.md)
+- [Roboflow 전이학습](roboflow_전이학습.ipynb)
+- [YOLO 전이학습 비교 전후](yolo_전이학습_비교전후.md)
+
 ## 8. TensorRT vs PyTorch 
-- [PyTorch_Basic](PyTorch_basic.md)
+
+- [PyTorch Basic](PyTorch_basic.md)
 - [TensorRT](TensorRT_test.md)
 - [YOLOv12](YOLOv12_test.md)
-- [PeopleNet](nvidia peoplenet.md)
+- [PeopleNet](nvidia_peoplenet.md)
+
+### 🤖 NVIDIA PeopleNet
+
+- [PeopleNet 실습](0729_peoplenet.ipynb)
+- [NVIDIA PeopleNet 정리](0730_nvidia_peoplenet.md)
 
 ## 9. TAO Toolkit on RunPod
-- [TAO_사용법](TAO_install.md)
-- [TAO_Toolkit](TAO_Toolkit.md)
+
+- TAO 사용법
+- TAO Toolkit
 
 ## 10. 칼만필터, CARLA, 경로 알고리즘
-- [kalman](kalman.md)
-- [CARLA_simulator](CARLA.md)
+
+- Kalman Filter
+- CARLA Simulator
 
 ## 11. ADAS & (ADAS TensorRT vs PyTorch)
-- [adas_basic](adas_basic.md)
-- [TensorRT vs PyTorch 비교](vs.md)
+
+- ADAS Basic
+- TensorRT vs PyTorch 비교
+
+---
+
+## 📸 이미지 자료
+
+- ![YOLO11 영상처리 결과](yolo11영상.png)
