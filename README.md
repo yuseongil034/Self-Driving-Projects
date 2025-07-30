@@ -297,6 +297,7 @@ print("World")
 - [PyTorch_Basic](PyTorch_basic.md)
 - [TensorRT](TensorRT_test.md)
 - [YOLOv12](YOLOv12_test.md)
+- [PeopleNet](nvidia peoplenet.md)
 
 ## 9. TAO Toolkit on RunPod
 - [TAO_사용법](TAO_install.md)
